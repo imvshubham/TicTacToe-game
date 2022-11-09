@@ -1,0 +1,35 @@
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp: In member function ‘void Game::playerTurn(int)’:
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:170:4: error: expected primary-expression before ‘)’ token
+    );
+    ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:190:19: error: ‘system’ was not declared in this scope
+     system("pause");
+                   ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:196:19: error: ‘system’ was not declared in this scope
+     system("pause");
+                   ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp: In member function ‘void Game::Victory()’:
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:208:5: error: expected primary-expression before ‘)’ token
+     );
+     ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:224:18: error: ‘system’ was not declared in this scope
+    system("pause");
+                  ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp: In member function ‘void Game::startGame()’:
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:340:5: error: expected primary-expression before ‘)’ token
+     );
+     ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:343:18: error: ‘system’ was not declared in this scope
+    system("pause");
+                  ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp: At global scope:
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:349:11: error: ‘::main’ must return ‘int’
+ void main() {
+           ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp: In function ‘int main()’:
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:384:4: error: expected primary-expression before ‘)’ token
+    );
+    ^
+/media/ecstasy/E8089D61089D2F94/Tic Tac Toe/Tic Tac Toe/Source.cpp:389:16: error: ‘system’ was not declared in this scope
+  system("pause");
+                ^
